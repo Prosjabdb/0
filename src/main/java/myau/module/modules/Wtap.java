@@ -33,7 +33,7 @@ public class Wtap extends Module {
     private int sprintResetTicks = 0;
 
     public Wtap() {
-        super("WTap", false);
+        super("Wtap", false);
     }
 
     @EventTarget
